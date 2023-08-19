@@ -1,3 +1,5 @@
 
-## Produtividade Policial
-Para cada arquivo .csv de cada ano/municipio, foi adicionado uma coluna de ano e municipio para facilitação de manipulação
+
+## Tratando os Dados
+### Produtividade Policial
+- Criação de scripts para tratar os dados e coloca-los na disposição correta no database.
